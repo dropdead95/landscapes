@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/landscapes/static/css/main.21561e76.css",
+    "main.js": "/landscapes/static/js/main.a7a68453.js",
+    "static/media/travel3.jpg": "/landscapes/static/media/travel3.990b8537e044a7f9ef03.jpg",
+    "static/media/main.jpg": "/landscapes/static/media/main.a8a2acc148a805453876.jpg",
+    "static/media/travel2.jpg": "/landscapes/static/media/travel2.076a84276c62ea3351b3.jpg",
+    "index.html": "/landscapes/index.html",
+    "main.21561e76.css.map": "/landscapes/static/css/main.21561e76.css.map",
+    "main.a7a68453.js.map": "/landscapes/static/js/main.a7a68453.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21561e76.css",
+    "static/js/main.a7a68453.js"
+  ]
+}
